@@ -1,0 +1,13 @@
+name = "uku's Armor HUD"
+filename = "ukus-armor-hud-0.9.0+mc1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wF189hn9/versions/h3thCvUO/ukus-armor-hud-0.9.0%2Bmc1.21.9.jar"
+hash-format = "sha512"
+hash = "b69574663c272e01a689b8e6a3768d257afcf432447382e48842f34dc3a7d380af29a48dba8336f16966057cbfedd880aa2253f80e12215dd14c408ecdce99c0"
+
+[update]
+[update.modrinth]
+mod-id = "wF189hn9"
+version = "h3thCvUO"
