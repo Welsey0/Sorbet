@@ -54,7 +54,7 @@ highContrastBlockOutline:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","file/Aseprite Fonts.zip","file/Rethoughted GUI.zip","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:[]
-lastServer:hermitcraft.xisumavoid.com
+lastServer:
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0

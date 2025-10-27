@@ -6,7 +6,7 @@
 	modpackName: "Sorbet",
 	modpackId: "sorbet",
 	modpackHome: "https://github.com/me/My-Modpack",
-	localVersion: "3.0.0-beta1",
+	localVersion: "3.0.0-beta2",
 	checkMcVersion: false,
 	loader: "fabric",
 	versionAPI: "https://raw.githubusercontent.com/me/My-Modpack/main/Packwiz/pack.toml",
