@@ -86,5 +86,16 @@ modlist=(
     yosbr
     zoomify
     # Sorbet only
-    # add those here
+    appleskin
+    invmove
+    jade
+    presence-footsteps
+    shulkerboxtooltip
+    simple-voice-chat
+    sound-physics-remastered
+    ukulib
+    ukus-armor-hud
+    visuality
+    xaeros-minimap
+    xaeros-world-map
 )
