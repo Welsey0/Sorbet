@@ -1,16 +1,16 @@
 name = "Sorbet"
 author = "Welsey_"
-version = "3.0.0-beta2"
+version = "4.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0543e41d3521182582f9ee8eee6d9b4152e0b05428bad0c50ea1441c2ea812d4"
+hash = "3c68f3931dde00539ef43a7440c685f6c0c8570776c139293e1082de135777b9"
 
 [versions]
-fabric = "0.17.3"
-minecraft = "1.21.10"
+fabric = "0.18.4"
+minecraft = "1.21.11"
 
 [options]
-acceptable-game-versions = ["1.21.1", "1.21.9", "1.21.8"]
+acceptable-game-versions = ["1.21.11", "1.21.10", "1.21.9", "1.21.8"]
