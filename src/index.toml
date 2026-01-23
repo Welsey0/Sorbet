@@ -140,6 +140,11 @@ hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
 metafile = true
@@ -399,6 +404,11 @@ hash = "383d8df46529ce54b4b0574be2fd9eba4f45d8c85aa668604e152fca3e439f5a"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "a62d7893eae9d5713dbe9c844b2bb9eba53157743c47b6e8abcbdd9075264cc9"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "5beb483696cdddc56fd80223e02293430634c7307a1c8d5d5d29a94c1d9178c9"
 metafile = true
@@ -511,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "5aed63b141e338e9eace980e591b108312cb68d053b33eb54f2a2d749cc20514"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "eccf0403881be365c1b79457210ddd0c07f605155c87d07a40739e06c537dd7e"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "Sorbet"
 author = "Welsey_"
-version = "4.0.0"
+version = "4.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3c68f3931dde00539ef43a7440c685f6c0c8570776c139293e1082de135777b9"
+hash = "bd96d3ec5a7da26ecb130c6977cef36fb25bfd66b70d5609107e3424b0f4ea57"
 
 [versions]
 fabric = "0.18.4"

@@ -2,7 +2,7 @@
 info=(
     name="Sorbet"
     author="Welsey_"
-    version="4.0.0"
+    version="4.0.1"
 )
 
 # Stores all the modrinth slugs. If incompatible, add 'Currently incompatible' comment. If it's manually included, comment out its line and leave a note
@@ -87,15 +87,18 @@ modlist=(
     zoomify
     # Sorbet only
     appleskin
+    architectury-api
     invmove
     jade
     presence-footsteps
     shulkerboxtooltip
     simple-voice-chat
     sound-physics-remastered
+    rei
     ukulib
     ukus-armor-hud
     visuality
+    voxy
     xaeros-minimap
     xaeros-world-map
 )
