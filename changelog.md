@@ -1,1 +1,1 @@
-- Added Voxy, REI
+This is a very alpha release of Sorbet 5.0.0, based upon Sherbert 5.4.2. Configs have not been updated yet and there are known issues with entering and playing the game, under investigation. Beta coming soon!
